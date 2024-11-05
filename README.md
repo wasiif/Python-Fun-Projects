@@ -51,4 +51,4 @@ Welcome to the Python Mini Projects repository! This collection includes simple 
 ## How to Run
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/Python-Mini-Projects.git
+   git clone https://github.com/wasiif/Python-Fun-Projects/.git
