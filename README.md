@@ -7,7 +7,7 @@ Welcome to the Python Mini Projects repository! This collection includes simple 
 - [QR Code Generator](#qr-code-generator)
 - [Number Guessing Game](#number-guessing-game)
 - [Rock, Paper, Scissors Game](#rock-paper-scissors-game)
-- [Multiplication Table Generator](#multiplication-table)
+- [Multiplication Table Generator](#multiplication-table-generator)
 - [Basic Calculator](#basic-calculator)
 
 ---
